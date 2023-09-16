@@ -10,3 +10,12 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+
+.new-sale-img {
+    transition: transform 0.3s ease-in-out;
+    ;
+}
+
+.new-sale-img:hover {
+    transform: scale(1.2);
+}
